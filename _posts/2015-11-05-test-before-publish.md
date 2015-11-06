@@ -3,20 +3,20 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: A test post
-datePublished: '2015-11-05T20:51:24.730Z'
-dateModified: '2015-11-05T20:50:40.150Z'
+datePublished: '2015-11-06T06:24:21.617Z'
+dateModified: '2015-11-06T06:24:09.673Z'
 title: Test before publish
+sourcePath: _posts/2015-11-05-test-before-publish.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-05-test-before-publish.md
-published: true
 url: test-before-publish/index.html
 _type: Article
 
