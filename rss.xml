@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Skypixel everything for drones]]></title>
-        <description><![CDATA[Skypixel everything for drones]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Skypixel]]></title>
+        <description><![CDATA[Skypixel]]></description>
+        <link>http://www.skypixel.gr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 20:52:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 Nov 2015 06:24:22 GMT</lastBuildDate>
+        <atom:link href="http://www.skypixel.gr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test before publish]]></title>
             <description><![CDATA[<h1>Test before publish</h1>]]></description>
-            <link>undefinedtest-before-publish/index.html</link>
+            <link>http://www.skypixel.gr/test-before-publish/index.html</link>
             <guid isPermaLink="false">006f2a57-244f-4245-8add-f3c6d449fcf8</guid>
-            <pubDate>Thu, 05 Nov 2015 20:51:24 GMT</pubDate>
+            <pubDate>Fri, 06 Nov 2015 06:24:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
