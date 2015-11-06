@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: A test post
-datePublished: '2015-11-06T19:07:32.519Z'
-dateModified: '2015-11-06T19:07:28.862Z'
+description: 'A test post post '
+datePublished: '2015-11-06T19:08:23.672Z'
+dateModified: '2015-11-06T19:08:20.127Z'
 title: Test before publish
 sourcePath: _posts/2015-11-05-test-before-publish.md
 published: true
@@ -21,5 +21,8 @@ publisher:
 _type: Blurb
 
 ---
-null
-null
+fdsfdsfds
+
+fdsfdsfds
+
+fsdfdsdsf
