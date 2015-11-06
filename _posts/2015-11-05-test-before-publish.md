@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A test post post '
-datePublished: '2015-11-06T19:10:35.495Z'
-dateModified: '2015-11-06T19:10:33.114Z'
+datePublished: '2015-11-06T19:13:44.723Z'
+dateModified: '2015-11-06T19:13:39.647Z'
 title: Test before publish
 sourcePath: _posts/2015-11-05-test-before-publish.md
 published: true
