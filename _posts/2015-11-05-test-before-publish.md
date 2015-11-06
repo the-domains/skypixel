@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: A test post
-datePublished: '2015-11-06T19:03:57.928Z'
-dateModified: '2015-11-06T19:03:51.666Z'
+datePublished: '2015-11-06T19:06:59.312Z'
+dateModified: '2015-11-06T19:06:55.886Z'
 title: Test before publish
 sourcePath: _posts/2015-11-05-test-before-publish.md
 published: true
@@ -17,7 +18,6 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: test-before-publish/index.html
 _type: Blurb
 
 ---
