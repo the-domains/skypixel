@@ -4,7 +4,7 @@
         <description><![CDATA[Skypixel]]></description>
         <link>http://www.skypixel.gr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 19:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 19:04:06 GMT</lastBuildDate>
         <atom:link href="http://www.skypixel.gr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Αγορά drone τι να επιλέξω]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.wordle.gr/drones/agora-drone-ti-na-epilexo/</link>
             <guid isPermaLink="false">148435b6-c7e0-44ee-a8e7-92beb8c1e2cf</guid>
             <pubDate>Fri, 06 Nov 2015 18:57:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Test before publish]]></title>
-            <description><![CDATA[<h1>Test before publish</h1>]]></description>
-            <link>http://www.skypixel.gr/test-before-publish/index.html</link>
-            <guid isPermaLink="false">006f2a57-244f-4245-8add-f3c6d449fcf8</guid>
-            <pubDate>Fri, 06 Nov 2015 06:24:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
