@@ -4,14 +4,14 @@
         <description><![CDATA[Skypixel]]></description>
         <link>http://www.skypixel.gr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 10:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 10:29:20 GMT</lastBuildDate>
         <atom:link href="http://www.skypixel.gr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test before publish]]></title>
-            <description><![CDATA[<article><h1>Test before publish</h1><p>A test post post </p></article>]]></description>
+            <description><![CDATA[<article><h1>Test before publish</h1><p>Test post</p></article>]]></description>
             <link>http://www.skypixel.gr/test-before-publish/index.html</link>
             <guid isPermaLink="false">006f2a57-244f-4245-8add-f3c6d449fcf8</guid>
-            <pubDate>Fri, 06 Nov 2015 19:15:32 GMT</pubDate>
+            <pubDate>Sat, 21 Nov 2015 10:29:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
