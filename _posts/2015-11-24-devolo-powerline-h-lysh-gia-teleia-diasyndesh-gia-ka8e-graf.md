@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-24T07:29:20.283Z'
-dateModified: '2015-11-24T07:29:03.365Z'
+datePublished: '2015-11-24T07:35:21.519Z'
+dateModified: '2015-11-24T07:34:41.107Z'
 title: 'devolo Powerline: Η λυση για τελεια διασυνδεση για καθε γραφειο'
 author: []
 authors: []
