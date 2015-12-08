@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: Η λυση για τελεια διασυνδεση για καθε γραφειο
-datePublished: '2015-12-08T20:29:09.816Z'
-dateModified: '2015-12-08T20:28:57.730Z'
+datePublished: '2015-12-08T20:30:41.118Z'
+dateModified: '2015-12-08T20:30:22.938Z'
 title: "Devolo Powerline:\_Η λυση για τελεια διασυνδεση για καθε γραφειο"
 author: []
 sourcePath: _posts/2015-11-24-devolo-powerline-h-lysh-gia-teleia-diasyndesh-gia-ka8e-graf.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: devolo-powerline-h-lysh-gia-teleia-diasyndesh-gia-ka8e-graf/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Devolo Powerline: Η λυση για τελεια διασυνδεση για καθε γραφειο
