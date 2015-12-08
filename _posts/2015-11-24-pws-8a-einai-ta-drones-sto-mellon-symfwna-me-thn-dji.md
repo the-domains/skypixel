@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-24T07:35:09.909Z'
-dateModified: '2015-11-24T07:34:12.472Z'
+datePublished: '2015-12-08T20:03:52.200Z'
+dateModified: '2015-12-08T20:03:41.901Z'
 title: Πως θα είναι τα drones στο μέλλον σύμφωνα με την DJI
 author: []
 sourcePath: _posts/2015-11-24-pws-8a-einai-ta-drones-sto-mellon-symfwna-me-thn-dji.md
