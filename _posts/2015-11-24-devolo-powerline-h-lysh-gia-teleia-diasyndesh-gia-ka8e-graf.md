@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2015-11-24T07:35:21.519Z'
-dateModified: '2015-11-24T07:34:41.107Z'
-title: 'devolo Powerline: Η λυση για τελεια διασυνδεση για καθε γραφειο'
+description: Η λυση για τελεια διασυνδεση για καθε γραφειο
+datePublished: '2015-12-08T20:20:29.145Z'
+dateModified: '2015-12-08T20:20:21.560Z'
+title: devolo Powerline
 author: []
+sourcePath: _posts/2015-11-24-devolo-powerline-h-lysh-gia-teleia-diasyndesh-gia-ka8e-graf.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-24-devolo-powerline-h-lysh-gia-teleia-diasyndesh-gia-ka8e-graf.md
-published: true
 url: devolo-powerline-h-lysh-gia-teleia-diasyndesh-gia-ka8e-graf/index.html
 _type: Article
 
