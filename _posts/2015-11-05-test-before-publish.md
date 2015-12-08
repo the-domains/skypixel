@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'A test post post '
-datePublished: '2015-11-21T10:37:27.798Z'
-dateModified: '2015-11-21T10:37:19.380Z'
-title: Test before publish
+description: ''
+datePublished: '2015-12-08T20:01:55.958Z'
+dateModified: '2015-12-08T20:01:51.056Z'
+title: First post
 sourcePath: _posts/2015-11-05-test-before-publish.md
 published: true
 author: []
@@ -22,6 +22,6 @@ url: test-before-publish/index.html
 _type: Article
 
 ---
-* test post
+First post
 
-Test post
+Hi to all
