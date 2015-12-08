@@ -4,7 +4,7 @@
         <description><![CDATA[Skypixel]]></description>
         <link>http://www.skypixel.gr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 07:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Dec 2015 20:01:57 GMT</lastBuildDate>
         <atom:link href="http://www.skypixel.gr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[devolo Powerline: Η λυση για τελεια διασυνδεση για καθε γραφειο]]></title>
@@ -25,11 +25,11 @@
             <pubDate>Tue, 24 Nov 2015 07:35:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Test before publish]]></title>
-            <description><![CDATA[<article><h1>Test before publish</h1><p>Test post</p></article>]]></description>
+            <title><![CDATA[First post]]></title>
+            <description><![CDATA[<h1>First post</h1>]]></description>
             <link>http://www.skypixel.gr/test-before-publish/index.html</link>
             <guid isPermaLink="false">006f2a57-244f-4245-8add-f3c6d449fcf8</guid>
-            <pubDate>Sat, 21 Nov 2015 10:37:27 GMT</pubDate>
+            <pubDate>Tue, 08 Dec 2015 20:01:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
