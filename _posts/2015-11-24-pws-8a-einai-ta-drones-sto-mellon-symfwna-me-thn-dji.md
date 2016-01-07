@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-08T20:36:28.267Z'
-dateModified: '2015-12-08T20:36:21.959Z'
+datePublished: '2016-01-07T13:18:54.937Z'
+dateModified: '2016-01-07T13:18:19.197Z'
 title: Πως θα είναι τα drones στο μέλλον σύμφωνα με την DJI
 author: []
 sourcePath: _posts/2015-11-24-pws-8a-einai-ta-drones-sto-mellon-symfwna-me-thn-dji.md
@@ -36,6 +36,10 @@ H γνωστή εταιρία κατασκευής drones DJI έδωσε στη�
 
 https://www.youtube.com/watch?v=ec1EF2UaQ4U
 
+https://www.youtube.com/embed/ec1EF2UaQ4U
+
 [Πηγή][0]
+null
+null
 
 [0]: http://www.wordle.gr/drones/dite-to-mellon-ton-drones-opos-to-fantazete-i-dji/
