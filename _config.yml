@@ -1,41 +1,41 @@
-name: Skypixel
-favicon: null
-layout_spectrum: 0.4963
-typography_spectrum: 0.8916
-title: Skypixel
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.4963
+title: Skypixel
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.5
+  brandStrength: 0.5
+  rhythmicContrast: 1
   brandColors:
     - '#0e2953'
     - '#c3caca'
     - '#77818a'
     - '#535d65'
     - '#eff3f5'
-  brandStrength: 0.5
   lightness: 0.7579530072398484
-  saturation: 0.5
-  rhythmicContrast: 1
 purpose: []
+favicon: null
+name: Skypixel
+typography_spectrum: 0.8916
